@@ -1,2 +1,2 @@
 # argo
-This is test file for argoCD!
+This is test file for argoCD
